@@ -12,19 +12,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://image.eunrl.cn/appstore/UJDasyPurse.ipa</string>
+                    <string>http://image.eunrl.cn/apps/youqian.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>jsh.ZS-puple.UEasyPurse.dis</string>
+                <string>jsh.ZS-puple.UEasyPurse.youqian</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>U金豆</string>
+                <string>有钱钱包</string>
             </dict>
         </dict>
     </array>
